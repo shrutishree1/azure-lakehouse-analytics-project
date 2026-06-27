@@ -150,6 +150,6 @@ Thanks for stopping by! 😊
 
 > Azure Data Engineer • Databricks • PySpark • Delta Lake • ADLS Gen2 • Unity Catalog
 
-📧 shrutishree064@gmail.com
+📧 email ID: shrutishree064@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/shruti-shree-data-analyst/
