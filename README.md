@@ -111,6 +111,7 @@ This project follows the Medallion Architecture, consisting of Bronze, Silver, a
 <hr>
 
 ### 📁 Repository Structure
+```text
 azure-lakehouse-analytics/
 │
 ├── datasets/                         # Raw CRM & ERP datasets
@@ -131,7 +132,7 @@ azure-lakehouse-analytics/
 │
 ├── README.md
 └── LICENSE
-
+```
 <hr>
 
 ⭐ Built with Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Unity Catalog, and Managed Identity.
