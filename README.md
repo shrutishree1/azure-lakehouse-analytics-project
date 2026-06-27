@@ -135,14 +135,17 @@ azure-lakehouse-analytics/
 ```
 <hr>
 
-⚡Powered by Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Unity Catalog, and Managed Identity.
+⚡Powered by -  Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Unity Catalog, and Managed Identity.
 
-<hr>
+-----------------------------------------------------
+-----------------------------------------------------
 
-License
+#### License
 This project is licensed under the MIT License.
 
----
+-----------------------------------------------------
+-----------------------------------------------------
+
 Thanks for stopping by! 😊
 
 **SShree** 
