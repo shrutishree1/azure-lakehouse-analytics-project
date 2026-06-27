@@ -2,11 +2,11 @@
 
 Welcome to my **Azure Lakehouse Analytics Platform repository!** 
 
-==============================================================================
+<hr>
 
 This project demonstrates a modern end-to-end Data Engineering and Analytics solution built on the Azure ecosystem. From ingesting raw data to creating business-ready analytical datasets, it showcases industry best practices for designing secure, scalable, and governed data platforms.
 
-──────────────────── ✦ ────────────────────
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 📖 Project Overview
 
@@ -30,7 +30,7 @@ Developing fact and dimension tables optimized for analytical queries and report
 6. ### 📈 Analytics & Reporting
 Creating analytics-ready datasets that can be consumed by Power BI or other BI tools for actionable business insights.
 
-──────────────────── ✦ ────────────────────
+<hr>
 
 ### 🎯 This repository showcases expertise in:
     ✅ Azure Data Engineering
@@ -53,19 +53,19 @@ Creating analytics-ready datasets that can be consumed by Power BI or other BI t
 Develop a modern Lakehouse on Microsoft Azure to consolidate sales data from multiple source systems, enabling analytical reporting and informed business decision-making.
 
 **Specifications**
-✅ ***Data Sources:*** Import CRM and ERP datasets provided as CSV files into Azure Data Lake Storage Gen2 (ADLS Gen2).
-✅ ***Data Quality:*** Cleanse, validate, and resolve data quality issues before analysis.
-✅ ***Integration:*** Combine multiple source systems into a unified analytical data model.
-✅ ***Storage:*** Store transformed data in Delta Lake tables following the Medallion Architecture.
-✅ ***Security:*** Secure data access using Managed Identity and govern data assets with Unity Catalog.
-✅ ***Scope:*** Focus on the latest available dataset; no historization required.
-✅ ***Documentation:*** Maintain clear documentation of the architecture, data model, and processing pipeline.
+- ✅ ***Data Sources:*** Import CRM and ERP datasets provided as CSV files into Azure Data Lake Storage Gen2 (ADLS Gen2).
+- ✅ ***Data Quality:*** Cleanse, validate, and resolve data quality issues before analysis.
+- ✅ ***Integration:*** Combine multiple source systems into a unified analytical data model.
+- ✅ ***Storage:*** Store transformed data in Delta Lake tables following the Medallion Architecture.
+- ✅ ***Security:*** Secure data access using Managed Identity and govern data assets with Unity Catalog.
+- ✅ ***Scope:*** Focus on the latest available dataset; no historization required.
+- ✅ ***Documentation:*** Maintain clear documentation of the architecture, data model, and processing pipeline.
 
---------------------------------------------------------------------------------------------------------------------
+<hr>
 
 ## BI: Analytics & Reporting (Data Analytics)
 
-<hr>
+------------------------------------------------------------------------------------------------------------------------
 
 ### Objective
 Build analytics-ready datasets to deliver business insights into:
