@@ -2,7 +2,7 @@
 
 Welcome to my **Azure Lakehouse Analytics Platform repository!** 
 
-──────────────────── ✦ ────────────────────
+==============================================================================
 
 This project demonstrates a modern end-to-end Data Engineering and Analytics solution built on the Azure ecosystem. From ingesting raw data to creating business-ready analytical datasets, it showcases industry best practices for designing secure, scalable, and governed data platforms.
 
