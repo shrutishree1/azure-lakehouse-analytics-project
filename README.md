@@ -146,8 +146,9 @@ This project is licensed under the MIT License.
 
 Thanks for stopping by! 😊
 
-**SShree** 
-- *Azure Data Engineer | Databricks | PySpark | Delta Lake | ADLS Gen2 | Unity Catalog*
+#### SShree
+
+> Azure Data Engineer • Databricks • PySpark • Delta Lake • ADLS Gen2 • Unity Catalog
 
 📧 shrutishree064@gmail.com
 
