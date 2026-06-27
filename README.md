@@ -1,6 +1,6 @@
 # 🚀 Azure Lakehouse Analytics Platform
 
-Welcome to my **Azure Lakehouse Analytics Platform repository!** 
+Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**  
 
 <hr>
 
@@ -135,11 +135,19 @@ azure-lakehouse-analytics/
 ```
 <hr>
 
-⭐ Built with Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Unity Catalog, and Managed Identity.
+⚡Powered by Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Unity Catalog, and Managed Identity.
 
 <hr>
 
 License
 This project is licensed under the MIT License.
 
-**SShree**
+---
+Thanks for stopping by! 😊
+
+**SShree** 
+*Azure Data Engineer | Databricks | PySpark | Delta Lake | ADLS Gen2 | Unity Catalog*
+
+📧 shrutishree064@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/shruti-shree-data-analyst/
